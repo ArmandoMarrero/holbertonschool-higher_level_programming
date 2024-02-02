@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-'''
-Define a class: Square
-'''
+    """_summary_
+    """
 
 
-class Square():
-    '''A class to represent a square.'''
+class Square:
+    """_summary_
+    """
     pass
