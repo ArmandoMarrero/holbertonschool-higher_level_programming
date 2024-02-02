@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-    """_summary_
-    """
+"""Define Class Square"""
 
 
 class Square:
-    """_summary_
-    """
+    """Empty Class Square"""
     pass
