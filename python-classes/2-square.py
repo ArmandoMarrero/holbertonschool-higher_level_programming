@@ -1,12 +1,13 @@
 #!/usr/bin/python3
+"""Class Square with size attribute"""
+
+
 class Square:
-    """Square class"""
+    """Class Square with size attribute"""
 
     def __init__(self, size=0):
-        """Init"""
-        if type(size) != int:
-            raise TypeError('size must be an integer')
-        if size < 0:
-            raise ValueError('size must be >= 0')
-        else:
+        """Initializes size as private attribute for Square class"""
+        try:
             self.__size = size
+        except ValueError:
+            print("size must be >= 0")
