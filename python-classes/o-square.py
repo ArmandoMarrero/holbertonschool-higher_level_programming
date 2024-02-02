@@ -1,9 +1,9 @@
-#module commented
 #!/usr/bin/python3
-"""Define Class Square"""
+'''
+Define a class: Square
+'''
 
 
-class Square:
-    #class commented
-    """Empty Class Square"""
+class Square():
+    '''A class to represent a square.'''
     pass
