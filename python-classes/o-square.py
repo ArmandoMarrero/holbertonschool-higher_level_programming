@@ -1,8 +1,9 @@
+#module commented
 #!/usr/bin/python3
-#hello squeare
 """Define Class Square"""
 
-#class squeare
+
 class Square:
+    #class commented
     """Empty Class Square"""
     pass
