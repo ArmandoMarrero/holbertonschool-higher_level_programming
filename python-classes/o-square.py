@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-#hello
+#hello squeare
 """Define Class Square"""
 
-#class
+#class squeare
 class Square:
     """Empty Class Square"""
     pass
